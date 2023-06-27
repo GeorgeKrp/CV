@@ -107,7 +107,7 @@ section:not(:first-child) {
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 300px) {
   body {
     margin: 1em;
   }
@@ -195,12 +195,6 @@ a.underline-on-hover:hover::before {
   background: white;
 }
 
-footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-}
 
 
 .new-card-container {
@@ -279,3 +273,9 @@ section h2::after {
   content: none; 
 }
 
+
+footer {
+  bottom: 0;
+  width: 100%;
+  margin-left: -17%;
+}
