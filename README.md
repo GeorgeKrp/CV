@@ -16,7 +16,7 @@ Explore my comprehensive CV that encapsulates my professional journey, skills, a
 
 Take a closer look at my journey, projects, and capabilities through this thoughtfully crafted CV.
 
-[Click here to see my personal CV](https://georgekrp.github.io/Cv/)
+[You can view the live Curriculum Vitae by clicking here.](https://georgekrp.github.io/Cv/)
 
 [Click here to jump to the Overview section](#overview)
 
