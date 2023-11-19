@@ -18,9 +18,6 @@ Take a closer look at my journey, projects, and capabilities through this though
 
 [You can view the live Curriculum Vitae by clicking here.](https://georgekrp.github.io/Cv/)
 
-[Click here to jump to the Overview section](#overview)
-
-## Overview {#overview}
 
 
 
