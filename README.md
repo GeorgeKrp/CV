@@ -22,5 +22,5 @@ Take a closer look at my journey, projects, and capabilities through this though
 
 ## Overview {#overview}
 
-*Here you can add content specific to the Overview section.*
+
 
